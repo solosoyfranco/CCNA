@@ -17,7 +17,7 @@
 
 ### In the following screen, which mode is represented by the Cisco IOS prompt?
 
-![picture1.png](https://github.com/solosoyfranco/CCNA/Questions/picture1.png)
+![picture1.png](https://github.com/solosoyfranco/CCNA/blob/master/Questions/picture1.png)
 
 - user EXEC mode
 
